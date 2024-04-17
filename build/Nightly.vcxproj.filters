@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\evahn\Desktop\Cours Kyushu\Computer Vision\cv1\build\CMakeFiles\49b71109412aeac67adc149bdc7bf15b\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\evahn\Desktop\Cours Kyushu\Computer Vision\cv1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\evahn\Desktop\Cours Kyushu\Computer Vision\cv1\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{604C3EF1-66CD-3AFC-A87B-A9FA838BD302}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
